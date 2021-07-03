@@ -1,0 +1,15 @@
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/CECAM.Domain.deps.json
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/CECAM.Domain.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/ref/CECAM.Domain.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/CECAM.Domain.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/CECAM.Entities.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/bin/Debug/net5.0/CECAM.Entities.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.csproj.AssemblyReference.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.AssemblyInfoInputs.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.AssemblyInfo.cs
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.csproj.CoreCompileInputs.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.csproj.CopyComplete
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/ref/CECAM.Domain.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/Debug/net5.0/CECAM.Domain.pdb

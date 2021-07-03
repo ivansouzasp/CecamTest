@@ -1,0 +1,520 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj",
+        "projectName": "CECAM.Domain",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj",
+        "projectName": "CECAM.Entities",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj",
+        "projectName": "CECAM.IOC",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj"
+              },
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/CECAM.Logic.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/CECAM.Logic.csproj"
+              },
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/CECAM.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/CECAM.Logic.csproj",
+        "projectName": "CECAM.Logic",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/CECAM.Logic.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj",
+        "projectName": "CECAM.Repository",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj"
+              },
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj",
+        "projectName": "Cecam.Tests",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj"
+              },
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj"
+              },
+              "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj": {
+                "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj",
+        "projectName": "Cecam.Utils",
+        "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj",
+        "packagesPath": "/Users/ivansouza/.nuget/packages/",
+        "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

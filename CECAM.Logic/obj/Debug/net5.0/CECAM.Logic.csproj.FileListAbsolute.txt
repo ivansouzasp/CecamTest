@@ -1,0 +1,17 @@
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Logic.deps.json
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Logic.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/ref/CECAM.Logic.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Logic.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Domain.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Entities.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Domain.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/bin/Debug/net5.0/CECAM.Entities.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.csproj.AssemblyReference.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.AssemblyInfoInputs.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.AssemblyInfo.cs
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.csproj.CoreCompileInputs.cache
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.csproj.CopyComplete
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/ref/CECAM.Logic.dll
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Logic/obj/Debug/net5.0/CECAM.Logic.pdb
