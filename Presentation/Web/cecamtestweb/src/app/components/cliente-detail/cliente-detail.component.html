@@ -1,0 +1,55 @@
+<div style="width: 400px; margin: auto;">
+    <div class="submit-form">
+      <div><h3>Cliente</h3></div>
+      <div *ngIf="!submitted">
+        <div class="form-group">
+            <label for="codigo">Código</label>
+            <input
+              type="text"
+              class="form-control"
+              id="codigo"
+              required
+              [(ngModel)]="clienteEntity.codigo"
+              name="codigo"
+            />
+        </div>
+        <div class="form-group">
+          <label for="razaosocial">Razão Social</label>
+          <input
+            type="text"
+            class="form-control"
+            id="razaosocial"
+            required
+            [(ngModel)]="clienteEntity.razaosocial"
+            name="razaosocial"
+          />
+        </div>
+        <div class="form-group">
+          <label for="cnpj">CNPJ</label>
+          <input
+            class="form-control"
+            id="cnpj"
+            required
+            [(ngModel)]="clienteEntity.cnpj"
+            name="cnpj"
+          />
+        </div>
+        <div class="form-group">
+            <label for="datacadastro">Data de Cadastro</label>
+            <input
+              class="form-control"
+              id="datacadastro"
+              required
+              [(ngModel)]="clienteEntity.datacadastro"
+              name="datacadastro"
+              placeholder="dd/mm/yyyy"
+            />
+        </div>
+        <button (click)="addCliente()" class="btn btn-success">Salvar</button>
+        <a class="btn btn-success" routerLink="/listclientes">
+          Voltar
+        </a>  
+      </div>
+
+    </div>
+  </div>
