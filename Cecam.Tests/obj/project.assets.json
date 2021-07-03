@@ -7438,17 +7438,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj",
+      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/Cecam.Tests.csproj",
       "projectName": "Cecam.Tests",
-      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/Cecam.Tests.csproj",
+      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/Cecam.Tests.csproj",
       "packagesPath": "/Users/ivansouza/.nuget/packages/",
-      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Tests/obj/",
+      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        "/Users/ivansouza/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7460,14 +7460,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj": {
-              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.IOC/CECAM.IOC.csproj"
+            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.IOC/CECAM.IOC.csproj": {
+              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.IOC/CECAM.IOC.csproj"
             },
-            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj": {
-              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Repository/CECAM.Repository.csproj"
+            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Repository/CECAM.Repository.csproj": {
+              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Repository/CECAM.Repository.csproj"
             },
-            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj": {
-              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj"
+            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/Cecam.Utils.csproj": {
+              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/Cecam.Utils.csproj"
             }
           }
         }

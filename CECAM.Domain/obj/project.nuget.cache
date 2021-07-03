@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FA6GuUzQfNoMCnXYMaahHEcZ/VYRjFfbjDko8Y8cGcHnsNUdBKp7QNjtlcoHFrincD8M3yG5fBEDQLqzZhsYEg==",
+  "dgSpecHash": "ZCe22kw+xxwW2neoLlbG4opUAvw7tvucglkCItHCRMe/J1qNL+uZ+Gtxr6NB5ydjWBFcp6VECMeJlO/Vorf7FQ==",
   "success": true,
-  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj",
+  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Domain/CECAM.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/ivansouza/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/ivansouza/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

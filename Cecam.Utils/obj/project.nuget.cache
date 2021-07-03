@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "na1OHdtydU3UU2QxXWESgEvJ20PcH7dV2p14wm6WAmkJVv3V6ON/3t5cvDUpFvdzFOJeFGryMuNTIDL/HGLm0Q==",
+  "dgSpecHash": "ideX9Z25vE+va8KoaIKo2xdvAuNoz3NMJu/+k+ry70MMD3c+W+2XEQ13YIfqhZ0LwrwPqXD/a2F+3ipylmBIhA==",
   "success": true,
-  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj",
+  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/Cecam.Utils.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

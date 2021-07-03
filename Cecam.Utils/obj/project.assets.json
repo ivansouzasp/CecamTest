@@ -14,17 +14,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj",
+      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/Cecam.Utils.csproj",
       "projectName": "Cecam.Utils",
-      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/Cecam.Utils.csproj",
+      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/Cecam.Utils.csproj",
       "packagesPath": "/Users/ivansouza/.nuget/packages/",
-      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/Cecam.Utils/obj/",
+      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        "/Users/ivansouza/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
