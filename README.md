@@ -15,8 +15,7 @@ Para executar o FrontEnd
 1. Abrir um terminal e ir para a pasta Presentation/Web/cecamtestweb
 2. Executar o coamndo npm start
 
-Problemas
-Se houver algum problema na execução seguir os seguintes passos.
+Se houver algum problema na execução do frontend seguir os seguintes passos.
 1. Na pasta Presentation/Web/cecamtestweb executar os comandos abaixo.
 2. npm install
 3. ng update
