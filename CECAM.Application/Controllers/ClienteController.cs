@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Net;
 using System.Threading.Tasks;
+using AutoMapper;
+using CECAM.Domain.Dtos;
 using CECAM.Domain.Interfaces.LogicLayer;
 using CECAM.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -13,11 +15,14 @@ namespace CECAM.Application.Controllers
     public class ClienteController: ControllerBase
     {
         private readonly IClienteLogic _clienteLogic;
+        private readonly IMapper _mapper;
         //private readonly ILogger<ClienteController> _logger;
         //Logger<ClienteController> logger;
-        public ClienteController(IClienteLogic clienteLogic)
+        public ClienteController(IClienteLogic clienteLogic,
+                                 IMapper mapper)
         {
             _clienteLogic = clienteLogic;
+            _mapper = mapper;
             //_logger = logger;
         }
 
@@ -59,7 +64,7 @@ namespace CECAM.Application.Controllers
 
         [HttpPost]
         [Route("AddCliente")]
-        public async Task<ActionResult> AddCliente([FromBody] Cliente cliente)
+        public async Task<ActionResult> AddCliente([FromBody] ClienteDto cliente)
         {
             if (!ModelState.IsValid)
             {
@@ -67,7 +72,8 @@ namespace CECAM.Application.Controllers
             }
             try
             {
-                var result = await _clienteLogic.Add(cliente);
+                var clienteEntity = _mapper.Map<Cliente>(cliente);
+                var result = await _clienteLogic.Add(clienteEntity);
                 if (result > 0)
                 {
                     return Created(new Uri(Url.Link("GetWithId", new { id = result })), result);
@@ -85,7 +91,7 @@ namespace CECAM.Application.Controllers
 
         [HttpPut]
         [Route("UpdateCliente")]
-        public async Task<ActionResult> Update([FromBody] Cliente cliente)
+        public async Task<ActionResult> Update([FromBody] ClienteDto cliente)
         {
             if (!ModelState.IsValid)
             {
@@ -93,7 +99,8 @@ namespace CECAM.Application.Controllers
             }
             try
             {
-                var result = await _clienteLogic.Update(cliente);
+                var clienteEntity = _mapper.Map<Cliente>(cliente);
+                var result = await _clienteLogic.Update(clienteEntity);
                 if (result > 0)
                 {
                     return Ok(result);

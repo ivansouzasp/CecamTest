@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Reflection;
+using AutoMapper;
 using CECAM.Domain.Interfaces.Repositories;
 using CECAM.Entities.Security;
 using CECAM.IOC.DependencyInjection;
+using CECAM.IOC.Mappings;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
@@ -30,6 +32,14 @@ namespace Cecam.Tests
 
             var assembly = AppDomain.CurrentDomain.Load("CECAM.Repository");
             services.AddMediatR(assembly);
+
+            //Configure mapping
+            var configMapper = new AutoMapper.MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile(new DtoToEntity());
+            });
+            IMapper mapper = configMapper.CreateMapper();
+            services.AddSingleton(mapper);
 
             //Add security context
             var signingConfiguration = new SigningConfiguration();

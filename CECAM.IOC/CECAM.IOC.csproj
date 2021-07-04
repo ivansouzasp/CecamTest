@@ -10,6 +10,7 @@
     <None Remove="Microsoft.Extensions.Configuration" />
     <None Remove="Microsoft.Extensions.DependencyInjection" />
     <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="AutoMapper" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DependencyInjection\" />
@@ -19,6 +20,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CECAM.Repository\CECAM.Repository.csproj" />
