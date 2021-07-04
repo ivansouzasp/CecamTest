@@ -22,7 +22,7 @@
               </thead>
               <tbody>
                 <tr *ngFor="let cliente of listClientes">
-                  <td><a class="btn btn-success" (click)="hideComponent()" routerLink="/clientes/cliente.codigo">Editar</a></td>
+                  <td><a class="btn btn-success" (click)="hideComponent()" [routerLink]="['/clientes', cliente.codigo]">Editar</a></td>
                   <td><a class="btn btn-success" (click)="deleteCliente(cliente.codigo)">Excluir</a></td>
                   <td>{{cliente.codigo}}</td>
                   <td>{{ cliente.cnpj }}</td>
