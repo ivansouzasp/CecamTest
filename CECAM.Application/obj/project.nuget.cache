@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Gg/Rvy2YEg+6cemWrl2PM4AH+H4MGWbk/knp2bBQpDA8RPy4lk2CtI2QoxMowLskR9xH47kFReFy3bYMz2ldw==",
+  "dgSpecHash": "Uvkfx8yT4DvU4s6I65Oa4gAZOFOzcOLE3fpylNUJP4uXdWGdzJ/ArjXQd+QclmFMfjZBEd4KEtL4e10uBFNIBA==",
   "success": true,
-  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Application/CECAM.Application.csproj",
+  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/CECAM.Application.csproj",
   "expectedPackageFiles": [
     "/Users/ivansouza/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/ivansouza/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",

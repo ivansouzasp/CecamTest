@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rB/t1QBFLssDJvpoto2QfC9b1KZEl6B8/CNFQVr9Ml1dpOnZPtXdx6Gp80uHbU3w20L0yE/BFjlVgJZ7PgjuxA==",
+  "dgSpecHash": "0wPwDY9N6dPJT/ACcG2KdsziyCbsjQgOJKfx0cgQnb6ekia8i8A1Is/AaxuNM8/DSZeLV8pJ8BDzUp2kmnhcvA==",
   "success": true,
-  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj",
+  "projectFilePath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/CECAM.Entities.csproj",
   "expectedPackageFiles": [
     "/Users/ivansouza/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/ivansouza/.nuget/packages/microsoft.identitymodel.logging/6.11.1/microsoft.identitymodel.logging.6.11.1.nupkg.sha512",

@@ -328,17 +328,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj",
+      "projectUniqueName": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Domain/CECAM.Domain.csproj",
       "projectName": "CECAM.Domain",
-      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/CECAM.Domain.csproj",
+      "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Domain/CECAM.Domain.csproj",
       "packagesPath": "/Users/ivansouza/.nuget/packages/",
-      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Domain/obj/",
+      "outputPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ivansouza/.config/NuGet/NuGet.Config"
+        "/Users/ivansouza/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -350,8 +350,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj": {
-              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CECAMTest/CECAM.Entities/CECAM.Entities.csproj"
+            "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/CECAM.Entities.csproj": {
+              "projectPath": "/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/CECAM.Entities.csproj"
             }
           }
         }
