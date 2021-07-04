@@ -8,6 +8,7 @@
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/Cecam.Tests.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/ref/Cecam.Tests.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/Cecam.Tests.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/AutoMapper.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/MediatR.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Tests/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

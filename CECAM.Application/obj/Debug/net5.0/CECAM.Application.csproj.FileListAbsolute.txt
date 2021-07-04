@@ -6,6 +6,7 @@
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/CECAM.Application.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/ref/CECAM.Application.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/CECAM.Application.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/AutoMapper.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/Humanizer.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/MediatR.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Application/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

@@ -2,7 +2,6 @@
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/bin/Debug/net5.0/CECAM.Entities.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/bin/Debug/net5.0/ref/CECAM.Entities.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/bin/Debug/net5.0/CECAM.Entities.pdb
-/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.csproj.AssemblyReference.cache
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.AssemblyInfoInputs.cache
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.AssemblyInfo.cs
@@ -10,3 +9,4 @@
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/ref/CECAM.Entities.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.pdb
+/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/CECAM.Entities/obj/Debug/net5.0/CECAM.Entities.csproj.AssemblyReference.cache

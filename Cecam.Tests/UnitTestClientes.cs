@@ -31,7 +31,7 @@ namespace Cecam.Tests
                 using (var service = _services.BuildServiceProvider())
                 {
                     clienteLogic = service.GetService<IClienteLogic>();
-                    cliente = new Cliente { Codigo = 0, CNPJ = "63075255000133", RazaoSocial = "Cliente Teste 7", DataCadastro = DateTime.Now };
+                    cliente = new Cliente { Codigo = 0, CNPJ = "05240427000180", RazaoSocial = "Cliente Teste 7", DataCadastro = DateTime.Now };
                     result = await clienteLogic.Add(cliente);
                 }
                 Assert.Pass(result > 0 ? "Inclusão Ok" : "Error");
