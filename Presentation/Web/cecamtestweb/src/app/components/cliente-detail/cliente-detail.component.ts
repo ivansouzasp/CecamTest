@@ -33,7 +33,6 @@ export class ClienteDetailComponent implements OnInit {
   }
 
   saveCliente(): void{
-    debugger;
     if (this.validateForm()){
       let year = '';
       let month = '';
@@ -68,7 +67,6 @@ export class ClienteDetailComponent implements OnInit {
            //this.submitted = true;
          },
           error => {
-            debugger;
             console.log(error);
           });
       }
@@ -88,7 +86,6 @@ export class ClienteDetailComponent implements OnInit {
     }
   }
   validateForm(): boolean{
-    debugger;
     this.showCNPJValidation = false;
     this.showRazaoSocialValidation = false;
     this.showDataCadastroValidation = false;
@@ -143,7 +140,6 @@ export class ClienteDetailComponent implements OnInit {
     };
   }
   loadCliente(): void{
-    debugger;
     this.id = this.activityRoute.snapshot.paramMap.get('codigo');
     if (this.id > 0){
       this.clienteService.get(this.id)
