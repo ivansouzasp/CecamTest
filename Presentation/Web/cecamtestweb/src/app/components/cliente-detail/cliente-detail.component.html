@@ -1,6 +1,25 @@
-<div (onload)="loadCliente()" style="width: 400px; margin: auto;">
+
+  <div style="width: 400px; margin: auto;">
     <div class="submit-form">
       <div><h3>Cliente</h3></div>
+      <div [hidden]="!isVisibleValidation" class="alert alert-danger">
+        <div><h3>Validações</h3></div>
+        <div *ngIf="showRazaoSocialValidation">
+          Razão Social é obrigatória.
+        </div>
+        <div *ngIf="showCNPJValidation">
+          CNPJ é obrigatório.
+        </div>
+        <div *ngIf="showDataCadastroValidation">
+          Data de Cadastro é obrigatório.
+        </div>
+        <div *ngIf="showDataCadastroIsValid">
+          Formato de data Inválida.
+        </div>
+        <div *ngIf="showCNPJIsValid">
+          CNPJ Inválido.
+        </div>
+      </div>
       <div *ngIf="!submitted">
         <div class="form-group">
             <label for="codigo">Código</label>
@@ -20,8 +39,9 @@
             class="form-control"
             id="razaosocial"
             required
-            [(ngModel)]="clienteEntity.razaosocial"
+            [(ngModel)]="clienteEntity.razaoSocial"
             name="razaosocial"
+            maxlength="100"
           />
         </div>
         <div class="form-group">
@@ -32,6 +52,7 @@
             required
             [(ngModel)]="clienteEntity.cnpj"
             name="cnpj"
+            maxlength="14"
           />
         </div>
         <div class="form-group">
@@ -40,12 +61,14 @@
               class="form-control"
               id="datacadastro"
               required
-              [(ngModel)]="clienteEntity.datacadastro"
+              [(ngModel)]="clienteEntity.dataCadastro"
               name="datacadastro"
               placeholder="dd/mm/yyyy"
+              datetime="dd-MM-yyyy"
+              maxlength="10"
             />
         </div>
-        <button (click)="addCliente()" class="btn btn-success">Salvar</button>
+        <button (click)="saveCliente()" class="btn btn-success">Salvar</button>
         <a class="btn btn-success" routerLink="/listclientes">
           Voltar
         </a>  

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{531CB949-D547-4189-881E-7ABB2D9C379C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cecam.Tests/UnitTestClientes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CECAM.Application/Controllers/ClienteController.cs">
     <Files>
       <File FileName="CECAM.Application/Startup.cs" Line="39" Column="1" />
-      <File FileName="Cecam.Tests/Startup.cs" Line="23" Column="10" />
-      <File FileName="CECAM.Application/Controllers/ClienteController.cs" Line="33" Column="37" />
+      <File FileName="Cecam.Tests/Startup.cs" />
+      <File FileName="CECAM.Application/Controllers/ClienteController.cs" Line="76" Column="69" />
       <File FileName="Cecam.Tests/UnitTestClientes.cs" Line="34" Column="79" />
     </Files>
     <Pads>

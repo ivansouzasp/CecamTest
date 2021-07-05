@@ -9,7 +9,6 @@ const baseUrl = 'http://localhost:14491/api/';
   })
   export class ClienteService {
     constructor(private http: HttpClient) { }
-
      getAll(): Observable<any> {
         return this.http.get(`${baseUrl}Cliente/GetAll`);
       }
@@ -18,11 +17,11 @@ const baseUrl = 'http://localhost:14491/api/';
         return this.http.get(`${baseUrl}Cliente/${id}`);
       }
     
-      create(data: any): Observable<any> {
-        return this.http.post(`${baseUrl}Cliente/AddCliente`, data);
+      create(body: any): Observable<any> {
+        return this.http.post(`${baseUrl}Cliente/AddCliente`, body);
       }
     
-      update(id: number, data: any): Observable<any> {
+      update(data: any): Observable<any> {
         return this.http.put(`${baseUrl}Cliente/UpdateCliente`, data);
       }
 

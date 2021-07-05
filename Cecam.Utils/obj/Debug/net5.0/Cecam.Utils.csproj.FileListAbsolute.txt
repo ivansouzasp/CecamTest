@@ -2,7 +2,6 @@
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/bin/Debug/net5.0/Cecam.Utils.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/bin/Debug/net5.0/ref/Cecam.Utils.dll
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/bin/Debug/net5.0/Cecam.Utils.pdb
-/Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/obj/Debug/net5.0/Cecam.Utils.csproj.AssemblyReference.cache
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/obj/Debug/net5.0/Cecam.Utils.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/obj/Debug/net5.0/Cecam.Utils.AssemblyInfoInputs.cache
 /Users/ivansouza/Projects/Personal/Companies Tests/CECAM/CecamTest/Cecam.Utils/obj/Debug/net5.0/Cecam.Utils.AssemblyInfo.cs
