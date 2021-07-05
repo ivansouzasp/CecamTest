@@ -136,6 +136,11 @@ namespace CECAM.Application
             option.AddRedirect("^$", "swagger");
             app.UseRewriter(option);
 
+            app.UseCors(x => x
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
