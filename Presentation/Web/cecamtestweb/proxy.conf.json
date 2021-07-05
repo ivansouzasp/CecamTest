@@ -7,3 +7,4 @@
        "pathRewrite": {"^/api" : "http://localhost:14491/api/"}
     }
   }
+}
